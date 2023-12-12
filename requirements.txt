@@ -1,0 +1,3 @@
+robotframework==6.0.1
+robotframework-browser
+robotframework-faker
