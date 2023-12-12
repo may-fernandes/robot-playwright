@@ -7,7 +7,7 @@ on:
         type: string
         description: Qual é a TAG a ser executada?
         required: true
-
+        
 jobs:
   web-tests:
     runs-on: ubuntu-20.04
